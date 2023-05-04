@@ -34,10 +34,7 @@ public class notOrtalamasıHesaplayanProgram {
         müzik = sc.nextInt();
 
         int ort =  (matematik + fizik + kimya + türkçe + tarih +müzik)/6;
-        if (ort == 60){
-            System.out.println("Ortalamanız: " + ort + " Sınıfı Geçtiniz");
-        }else{
-            System.out.println("Ortalamanız: " + ort + " Sınıfı Geçemediniz");
-        }
+        System.out.println("ortalamanız" + ort);
+        System.out.println(ort > 60 ? "Geçtiniz":"Sınıfı geçemediniz");
     }
 }
