@@ -22,7 +22,7 @@ import java.util.Scanner;
  * Patlıcan Kaç Kilo ? :3
  * Toplam Tutar : 21.68 TL
  */
-public class manavKasaProgramı {
+public class ManavKasaProgramı {
 
     public static void main(String[] args) {
         double Armut =  2.14;

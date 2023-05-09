@@ -9,7 +9,7 @@ Yarıçapı r, merkez açısının ölçüsü 𝛼 olan daire diliminin alanı b
 
 Formül : (𝜋 * (r*r) * 𝛼) / 360*/
 
-public class daireninAlanınıveÇevresiniHesaplayanProgram {
+public class DaireninAlanınıveÇevresiniHesaplayanProgram {
 
 
     public static void main(String[] args){

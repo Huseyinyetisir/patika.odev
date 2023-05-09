@@ -1,11 +1,9 @@
 package org.patika;
 
 
-import org.w3c.dom.ls.LSOutput;
-
 import java.util.Scanner;
 
-public class notOrtalamasıHesaplayanProgram {
+public class NotOrtalamasıHesaplayanProgram {
 
 
     public static void main(String[] args) {

@@ -1,10 +1,8 @@
 package org.patika;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
-public class dikUcgendeHipotenusBulanProgram {
+public class DikUcgendeHipotenusBulanProgram {
     public static void main(String[] args){
         Double hipo2;
         Double alan2;
@@ -21,11 +19,9 @@ public class dikUcgendeHipotenusBulanProgram {
         System.out.println("Hipotenüs: " + hipo);
         int cevre = (int) ((a+b+hipo)/2);
 
-
         alan2 = cevre * (cevre - a)* (cevre - b) * (cevre - hipo);
         Double alan = Math.sqrt(alan2);
         System.out.println("Ucgenin alanı: " + alan);
-
-
+        
     }
 }

@@ -15,7 +15,7 @@ Vücut Kitle İndeksiniz : 35.49215792320173
 
 import java.util.Scanner;
 
-public class vucutKitleIndexi {
+public class VucutKitleIndexi {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
