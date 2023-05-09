@@ -30,4 +30,8 @@ public class VucutKitleIndexi {
         System.out.println(index);
     }
 
+    /*
+    * Selam
+    * */
+
 }
